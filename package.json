@@ -1,0 +1,19 @@
+{
+    "name": "hw3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^8.42.0",
+        "eslint-plugin-sort-imports": "file:./eslint-plugin-example.js"
+    },
+    "dependencies": {
+        "@typescript-eslint/parser": "^5.59.11"
+    }
+}
